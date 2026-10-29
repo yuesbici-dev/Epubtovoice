@@ -1,0 +1,6 @@
+{
+  "name": "VoxEPUB - On-Device Android Audiobook Synthesizer",
+  "description": "100% on-device offline EPUB to MP3 audiobook creator with selective chapter batching, voice and IPA customization, and battery optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

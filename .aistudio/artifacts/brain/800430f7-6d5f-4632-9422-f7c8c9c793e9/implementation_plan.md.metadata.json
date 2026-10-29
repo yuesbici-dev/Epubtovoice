@@ -1,0 +1,6 @@
+{
+  "summary":  "Updated implementation plan detailing the comprehensive Chapter Viewer and Selection Matrix feature. Specifies individual chapter selection/deselection, distinct visual indicators, quick selection actions (Select All, Deselect All, Invert), real-time selective duration/size recalculation, and targeted generation queues alongside voice controls, resource sliders, and generation history.",
+  "updatedAt":  "2026-10-28T21:48:51.384778040Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
